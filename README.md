@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Shashank 👋
 
-<!--
-**shashank451/shashank451** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student at Teerthanker Mahaveer University
 
-Here are some ideas to get you started:
+💻 Currently Learning:
+- Java
+- Data Structures & Algorithms
+- Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects:
+- Java Calculator
+- Number Guessing Game (Coming Soon)
+- Rock Paper Scissors (Coming Soon)
+
+📫 Connect with me:
+LinkedIn: [Your LinkedIn Link]
